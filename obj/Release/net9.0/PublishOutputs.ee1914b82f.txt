@@ -1,1 +1,0 @@
-/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/publish/web.config
