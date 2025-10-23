@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM/BlazorWASM.csproj": {}
+    "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM.csproj": {}
   },
   "projects": {
-    "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM/BlazorWASM.csproj": {
+    "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM/BlazorWASM.csproj",
+        "projectUniqueName": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM.csproj",
         "projectName": "BlazorWASM",
-        "projectPath": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM/BlazorWASM.csproj",
+        "projectPath": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM.csproj",
         "packagesPath": "/Users/BrianWettstone/.nuget/packages/",
-        "outputPath": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM/obj/",
+        "outputPath": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/BrianWettstone/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujyb/O0/Zho=",
+  "dgSpecHash": "Y4yFaOGaCOE=",
   "success": true,
-  "projectFilePath": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM/BlazorWASM.csproj",
+  "projectFilePath": "/Users/BrianWettstone/Desktop/Blazor self-taught/BlazorSandbox/BlazorWASM.csproj",
   "expectedPackageFiles": [
     "/Users/BrianWettstone/.nuget/packages/microsoft.aspnetcore.authorization/9.0.10/microsoft.aspnetcore.authorization.9.0.10.nupkg.sha512",
     "/Users/BrianWettstone/.nuget/packages/microsoft.aspnetcore.components/9.0.10/microsoft.aspnetcore.components.9.0.10.nupkg.sha512",
